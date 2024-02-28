@@ -1,0 +1,37 @@
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.dosis {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body {
+    font-family: "Dosis", sans-serif;
+}
+h1 {
+   color: black; 
+}
+h1:hover {
+    color: palevioletred;
+}
+#example1 {
+    border-radius: 50px;
+  }
+li {
+    list-style: none;
+    display: inline-block;
+    width: 100px;
+  }
+nav-item {
+    color: black;
+    text-decoration: none;
+  }
+  h1 a {
+    color: black;
+  }
+  h1 a:hover {
+    color: palevioletred;
+  }
