@@ -23,7 +23,7 @@ h1:hover {
 li {
     list-style: none;
     display: inline-block;
-    width: 100px;
+    /*width: 100px;*/
   }
 nav-item {
     color: black;
